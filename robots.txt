@@ -1,0 +1,3 @@
+User-agent:Alex *
+Disallow: /cgi-bin
+
